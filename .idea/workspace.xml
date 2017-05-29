@@ -1,0 +1,1207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="nbodyAss" targetName="nbodyAss" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dea6aedb-8163-42aa-853f-c59f7ca1a543" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeCCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeCXXCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_C.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_CXX.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeSystem.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/CMakeCCompilerId.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/a.out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/a.out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/nbodyAss.dir/nbody.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/input_1024.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/input_16384.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/input_4096.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/input_64.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/nbodyAss" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/nbody.cpp" afterPath="$PROJECT_DIR$/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/nbodyAss.dir/CXX.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/nbodyAss.dir/CXX.includecache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/nbodyAss.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/nbodyAss.dir/DependInfo.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/nbodyAss.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/nbodyAss.dir/build.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/nbodyAss.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/nbodyAss.dir/cmake_clean.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/nbodyAss.dir/depend.internal" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/nbodyAss.dir/depend.internal" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/nbodyAss.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/nbodyAss.dir/depend.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/nbodyAss.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/nbodyAss.dir/flags.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/nbodyAss.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/nbodyAss.dir/link.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/nbodyAss.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/nbodyAss.cbp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vector2.h" afterPath="$PROJECT_DIR$/vector2.h" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="357" column="40" lean-forward="false" selection-start-line="357" selection-start-column="40" selection-end-line="357" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#289#357#0" expanded="false" />
+                <element signature="e#289#941#0" expanded="false" />
+                <element signature="e#943#973#0" expanded="false" />
+                <element signature="e#943#1759#0" expanded="false" />
+                <element signature="e#1760#1957#0" expanded="false" />
+                <element signature="e#1959#1982#0" expanded="false" />
+                <element signature="e#3307#3504#0" expanded="false" />
+                <element signature="e#3506#3529#0" expanded="false" />
+                <element signature="e#3506#4275#0" expanded="false" />
+                <element signature="e#4276#4464#0" expanded="false" />
+                <element signature="e#4466#4492#0" expanded="false" />
+                <element signature="e#5414#5646#0" expanded="false" />
+                <element signature="e#5648#6776#0" expanded="false" />
+                <element signature="e#6778#7775#0" expanded="false" />
+                <element signature="e#7777#9859#0" expanded="false" />
+                <element signature="e#8299#8350#0" expanded="false" />
+                <element signature="e#8427#8503#0" expanded="false" />
+                <element signature="e#10325#10376#0" expanded="false" />
+                <element signature="e#10453#10529#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>start_</find>
+      <find>MoveLocalBodies</find>
+      <find>distr</find>
+      <find>bodies</find>
+      <find>vector&lt;P</find>
+      <find>movebod</find>
+      <find>start_s</find>
+      <find>gather</find>
+      <find>gath</find>
+      <find>numlo</find>
+      <find>read_f</find>
+      <find>mpi_data</find>
+      <find>mpi_ini</find>
+      <find>ss</find>
+      <find>mpi_init</find>
+      <find>fileo</find>
+      <find>output_file</find>
+      <find>count</find>
+      <find>count_</find>
+      <find>fileoutput</find>
+      <find>get</find>
+      <find>omprun(</find>
+      <find>num_th</find>
+      <find>computeforcespa</find>
+      <find>thread_count</find>
+      <find>PI_ParticleType,</find>
+      <find>part_proc</find>
+      <find>count_part</find>
+      <find>wtime</find>
+      <find>particleTy</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/nbody.cpp" />
+        <option value="$PROJECT_DIR$/common.h.h" />
+        <option value="$PROJECT_DIR$/common.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/vector2.h" />
+        <option value="$PROJECT_DIR$/common.h" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="53" />
+    <option name="y" value="-4" />
+    <option name="width" value="1313" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nbodyAss" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nbodyAss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Build All">
+    <configuration default="true" type="CLion_Remote" factoryName="GDB Remote Debug" remoteCommand="" symbolFile="" sysroot="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="nbodyAss" TARGET_NAME="nbodyAss" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="FirefoxRemoteDebugType" factoryName="Firefox Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeWebKit" factoryName="NW.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="nbodyAss" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ReactNative" factoryName="React Native">
+      <node-interpreter value="project" />
+      <platform value="ANDROID" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="nbodyAss" />
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="nbodyAss" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="nbodyAss" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="nbodyAss" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="nbodyAss" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="nbodyAss" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="nbodyAss" TARGET_NAME="nbodyAss" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="nbodyAss" RUN_TARGET_NAME="nbodyAss">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="nbodyAss" TARGET_NAME="nbodyAss" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="nbodyAss" RUN_TARGET_NAME="nbodyAss">
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.nbodyAss" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Build All" />
+    </list>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="nbodyAss" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dea6aedb-8163-42aa-853f-c59f7ca1a543" name="Default" comment="" />
+      <created>1489743134824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489743134824</updated>
+      <workItem from="1489743139372" duration="3062000" />
+      <workItem from="1489753637866" duration="633000" />
+      <workItem from="1489754960360" duration="8304000" />
+      <workItem from="1490265265467" duration="68000" />
+      <workItem from="1491159023255" duration="2560000" />
+      <workItem from="1491209658580" duration="2063000" />
+      <workItem from="1491215155652" duration="97000" />
+      <workItem from="1491215285028" duration="674000" />
+      <workItem from="1491221878449" duration="245000" />
+      <workItem from="1491222140126" duration="1080000" />
+      <workItem from="1491223499217" duration="83000" />
+      <workItem from="1491223649073" duration="4618000" />
+      <workItem from="1491372876092" duration="4448000" />
+      <workItem from="1491384549211" duration="12695000" />
+      <workItem from="1491550000572" duration="12649000" />
+      <workItem from="1491644338568" duration="18542000" />
+      <workItem from="1491805164461" duration="1671000" />
+      <workItem from="1492454601193" duration="599000" />
+      <workItem from="1492592315217" duration="5542000" />
+      <workItem from="1492756747380" duration="11527000" />
+      <workItem from="1493039753666" duration="400000" />
+      <workItem from="1493206450441" duration="19653000" />
+      <workItem from="1493319747825" duration="7934000" />
+      <workItem from="1493328422262" duration="1242000" />
+      <workItem from="1493368956612" duration="9357000" />
+      <workItem from="1493397675196" duration="12468000" />
+      <workItem from="1493545165856" duration="23113000" />
+      <workItem from="1493621574581" duration="38744000" />
+      <workItem from="1493791712460" duration="19443000" />
+      <workItem from="1493987581600" duration="28216000" />
+      <workItem from="1494139792952" duration="12635000" />
+      <workItem from="1494152946834" duration="12985000" />
+      <workItem from="1494169060036" duration="11134000" />
+      <workItem from="1495017103510" duration="636000" />
+      <workItem from="1495032169062" duration="7182000" />
+      <workItem from="1495056878313" duration="925000" />
+      <workItem from="1495058394121" duration="828000" />
+      <workItem from="1495160770053" duration="706000" />
+      <workItem from="1495175544562" duration="3816000" />
+      <workItem from="1495180728898" duration="3760000" />
+      <workItem from="1495186123188" duration="18784000" />
+      <workItem from="1495435338337" duration="19365000" />
+      <workItem from="1495558395944" duration="7409000" />
+      <workItem from="1495615752478" duration="31000" />
+      <workItem from="1495707480760" duration="6447000" />
+      <workItem from="1495745359024" duration="272000" />
+      <workItem from="1495982614182" duration="2810000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="361455000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="53" y="-4" width="1313" height="772" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19878142" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18535127" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3645485" sideWeight="0.38787878" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3258595" sideWeight="0.46439394" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23766816" sideWeight="0.82501864" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19581465" sideWeight="0.6121212" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31240657" sideWeight="0.6840909" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06187291" sideWeight="0.4973939" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="81" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="p1x" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/input_64.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1520">
+          <caret line="95" column="28" lean-forward="true" selection-start-line="95" selection-start-column="28" selection-end-line="95" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#289#357#0" expanded="false" />
+            <element signature="e#289#941#0" expanded="false" />
+            <element signature="e#943#973#0" expanded="false" />
+            <element signature="e#943#1759#0" expanded="false" />
+            <element signature="e#1760#1957#0" expanded="false" />
+            <element signature="e#1959#1982#0" expanded="false" />
+            <element signature="e#3307#3504#0" expanded="false" />
+            <element signature="e#3506#3529#0" expanded="false" />
+            <element signature="e#3506#4275#0" expanded="false" />
+            <element signature="e#4276#4464#0" expanded="false" />
+            <element signature="e#4466#4492#0" expanded="false" />
+            <element signature="e#5414#5646#0" expanded="false" />
+            <element signature="e#5648#6776#0" expanded="false" />
+            <element signature="e#6778#7775#0" expanded="false" />
+            <element signature="e#7777#9859#0" expanded="false" />
+            <element signature="e#8299#8350#0" expanded="false" />
+            <element signature="e#8427#8503#0" expanded="false" />
+            <element signature="e#10325#10376#0" expanded="false" />
+            <element signature="e#10453#10529#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/input_64.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1136">
+          <caret line="71" column="39" lean-forward="true" selection-start-line="71" selection-start-column="39" selection-end-line="71" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#289#357#0" expanded="false" />
+            <element signature="e#289#941#0" expanded="false" />
+            <element signature="e#943#973#0" expanded="false" />
+            <element signature="e#943#1759#0" expanded="false" />
+            <element signature="e#1760#1957#0" expanded="false" />
+            <element signature="e#1959#1982#0" expanded="false" />
+            <element signature="e#3307#3504#0" expanded="false" />
+            <element signature="e#3506#3529#0" expanded="false" />
+            <element signature="e#3506#4275#0" expanded="false" />
+            <element signature="e#4276#4464#0" expanded="false" />
+            <element signature="e#4466#4492#0" expanded="false" />
+            <element signature="e#5414#5646#0" expanded="false" />
+            <element signature="e#5648#6776#0" expanded="false" />
+            <element signature="e#6778#7775#0" expanded="false" />
+            <element signature="e#7777#9859#0" expanded="false" />
+            <element signature="e#8299#8350#0" expanded="false" />
+            <element signature="e#8427#8503#0" expanded="false" />
+            <element signature="e#10325#10376#0" expanded="false" />
+            <element signature="e#10453#10529#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/input_64.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="66" lean-forward="false" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vector2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1312">
+          <caret line="82" column="36" lean-forward="false" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#289#357#0" expanded="false" />
+            <element signature="e#289#941#0" expanded="false" />
+            <element signature="e#943#973#0" expanded="false" />
+            <element signature="e#943#1759#0" expanded="false" />
+            <element signature="e#1760#1957#0" expanded="false" />
+            <element signature="e#1959#1982#0" expanded="false" />
+            <element signature="e#3307#3504#0" expanded="false" />
+            <element signature="e#3506#3529#0" expanded="false" />
+            <element signature="e#3506#4275#0" expanded="false" />
+            <element signature="e#4276#4464#0" expanded="false" />
+            <element signature="e#4466#4492#0" expanded="false" />
+            <element signature="e#5414#5646#0" expanded="false" />
+            <element signature="e#5648#6776#0" expanded="false" />
+            <element signature="e#6778#7775#0" expanded="false" />
+            <element signature="e#7777#9859#0" expanded="false" />
+            <element signature="e#8299#8350#0" expanded="false" />
+            <element signature="e#8427#8503#0" expanded="false" />
+            <element signature="e#10325#10376#0" expanded="false" />
+            <element signature="e#10453#10529#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="66" lean-forward="false" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#289#357#0" expanded="false" />
+            <element signature="e#289#941#0" expanded="false" />
+            <element signature="e#943#973#0" expanded="false" />
+            <element signature="e#943#1759#0" expanded="false" />
+            <element signature="e#1760#1957#0" expanded="false" />
+            <element signature="e#1959#1982#0" expanded="false" />
+            <element signature="e#3307#3504#0" expanded="false" />
+            <element signature="e#3506#3529#0" expanded="false" />
+            <element signature="e#3506#4275#0" expanded="false" />
+            <element signature="e#4276#4464#0" expanded="false" />
+            <element signature="e#4466#4492#0" expanded="false" />
+            <element signature="e#5414#5646#0" expanded="false" />
+            <element signature="e#5648#6776#0" expanded="false" />
+            <element signature="e#6778#7775#0" expanded="false" />
+            <element signature="e#7777#9859#0" expanded="false" />
+            <element signature="e#8299#8350#0" expanded="false" />
+            <element signature="e#8427#8503#0" expanded="false" />
+            <element signature="e#10325#10376#0" expanded="false" />
+            <element signature="e#10453#10529#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vector2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#289#357#0" expanded="false" />
+            <element signature="e#289#941#0" expanded="false" />
+            <element signature="e#943#973#0" expanded="false" />
+            <element signature="e#943#1759#0" expanded="false" />
+            <element signature="e#1760#1957#0" expanded="false" />
+            <element signature="e#1959#1982#0" expanded="false" />
+            <element signature="e#3307#3504#0" expanded="false" />
+            <element signature="e#3506#3529#0" expanded="false" />
+            <element signature="e#3506#4275#0" expanded="false" />
+            <element signature="e#4276#4464#0" expanded="false" />
+            <element signature="e#4466#4492#0" expanded="false" />
+            <element signature="e#5414#5646#0" expanded="false" />
+            <element signature="e#5648#6776#0" expanded="false" />
+            <element signature="e#6778#7775#0" expanded="false" />
+            <element signature="e#7777#9859#0" expanded="false" />
+            <element signature="e#8299#8350#0" expanded="false" />
+            <element signature="e#8427#8503#0" expanded="false" />
+            <element signature="e#10325#10376#0" expanded="false" />
+            <element signature="e#10453#10529#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vector2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#289#357#0" expanded="false" />
+            <element signature="e#289#941#0" expanded="false" />
+            <element signature="e#943#973#0" expanded="false" />
+            <element signature="e#943#1759#0" expanded="false" />
+            <element signature="e#1760#1957#0" expanded="false" />
+            <element signature="e#1959#1982#0" expanded="false" />
+            <element signature="e#3307#3504#0" expanded="false" />
+            <element signature="e#3506#3529#0" expanded="false" />
+            <element signature="e#3506#4275#0" expanded="false" />
+            <element signature="e#4276#4464#0" expanded="false" />
+            <element signature="e#4466#4492#0" expanded="false" />
+            <element signature="e#5414#5646#0" expanded="false" />
+            <element signature="e#5648#6776#0" expanded="false" />
+            <element signature="e#6778#7775#0" expanded="false" />
+            <element signature="e#7777#9859#0" expanded="false" />
+            <element signature="e#8299#8350#0" expanded="false" />
+            <element signature="e#8427#8503#0" expanded="false" />
+            <element signature="e#10325#10376#0" expanded="false" />
+            <element signature="e#10453#10529#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vector2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#289#357#0" expanded="false" />
+            <element signature="e#289#941#0" expanded="false" />
+            <element signature="e#943#973#0" expanded="false" />
+            <element signature="e#943#1759#0" expanded="false" />
+            <element signature="e#1760#1957#0" expanded="false" />
+            <element signature="e#1959#1982#0" expanded="false" />
+            <element signature="e#3307#3504#0" expanded="false" />
+            <element signature="e#3506#3529#0" expanded="false" />
+            <element signature="e#3506#4275#0" expanded="false" />
+            <element signature="e#4276#4464#0" expanded="false" />
+            <element signature="e#4466#4492#0" expanded="false" />
+            <element signature="e#5414#5646#0" expanded="false" />
+            <element signature="e#5648#6776#0" expanded="false" />
+            <element signature="e#6778#7775#0" expanded="false" />
+            <element signature="e#7777#9859#0" expanded="false" />
+            <element signature="e#8299#8350#0" expanded="false" />
+            <element signature="e#8427#8503#0" expanded="false" />
+            <element signature="e#10325#10376#0" expanded="false" />
+            <element signature="e#10453#10529#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vector2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#289#357#0" expanded="false" />
+            <element signature="e#289#941#0" expanded="false" />
+            <element signature="e#943#973#0" expanded="false" />
+            <element signature="e#943#1759#0" expanded="false" />
+            <element signature="e#1760#1957#0" expanded="false" />
+            <element signature="e#1959#1982#0" expanded="false" />
+            <element signature="e#3307#3504#0" expanded="false" />
+            <element signature="e#3506#3529#0" expanded="false" />
+            <element signature="e#3506#4275#0" expanded="false" />
+            <element signature="e#4276#4464#0" expanded="false" />
+            <element signature="e#4466#4492#0" expanded="false" />
+            <element signature="e#5414#5646#0" expanded="false" />
+            <element signature="e#5648#6776#0" expanded="false" />
+            <element signature="e#6778#7775#0" expanded="false" />
+            <element signature="e#7777#9859#0" expanded="false" />
+            <element signature="e#8299#8350#0" expanded="false" />
+            <element signature="e#8427#8503#0" expanded="false" />
+            <element signature="e#10325#10376#0" expanded="false" />
+            <element signature="e#10453#10529#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vector2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#289#357#0" expanded="false" />
+            <element signature="e#289#941#0" expanded="false" />
+            <element signature="e#943#973#0" expanded="false" />
+            <element signature="e#943#1759#0" expanded="false" />
+            <element signature="e#1760#1957#0" expanded="false" />
+            <element signature="e#1959#1982#0" expanded="false" />
+            <element signature="e#3307#3504#0" expanded="false" />
+            <element signature="e#3506#3529#0" expanded="false" />
+            <element signature="e#3506#4275#0" expanded="false" />
+            <element signature="e#4276#4464#0" expanded="false" />
+            <element signature="e#4466#4492#0" expanded="false" />
+            <element signature="e#5414#5646#0" expanded="false" />
+            <element signature="e#5648#6776#0" expanded="false" />
+            <element signature="e#6778#7775#0" expanded="false" />
+            <element signature="e#7777#9859#0" expanded="false" />
+            <element signature="e#8299#8350#0" expanded="false" />
+            <element signature="e#8427#8503#0" expanded="false" />
+            <element signature="e#10325#10376#0" expanded="false" />
+            <element signature="e#10453#10529#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vector2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="5" selection-start-column="54" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#289#357#0" expanded="false" />
+            <element signature="e#289#941#0" expanded="false" />
+            <element signature="e#943#973#0" expanded="false" />
+            <element signature="e#943#1759#0" expanded="false" />
+            <element signature="e#1760#1957#0" expanded="false" />
+            <element signature="e#1959#1982#0" expanded="false" />
+            <element signature="e#3307#3504#0" expanded="false" />
+            <element signature="e#3506#3529#0" expanded="false" />
+            <element signature="e#3506#4275#0" expanded="false" />
+            <element signature="e#4276#4464#0" expanded="false" />
+            <element signature="e#4466#4492#0" expanded="false" />
+            <element signature="e#5414#5646#0" expanded="false" />
+            <element signature="e#5648#6776#0" expanded="false" />
+            <element signature="e#6778#7775#0" expanded="false" />
+            <element signature="e#7777#9859#0" expanded="false" />
+            <element signature="e#8299#8350#0" expanded="false" />
+            <element signature="e#8427#8503#0" expanded="false" />
+            <element signature="e#10325#10376#0" expanded="false" />
+            <element signature="e#10453#10529#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/input_64.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vector2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1098">
+          <caret line="61" column="29" lean-forward="false" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#289#357#0" expanded="false" />
+            <element signature="e#289#941#0" expanded="false" />
+            <element signature="e#943#973#0" expanded="false" />
+            <element signature="e#943#1759#0" expanded="false" />
+            <element signature="e#1760#1957#0" expanded="false" />
+            <element signature="e#1959#1982#0" expanded="false" />
+            <element signature="e#3307#3504#0" expanded="false" />
+            <element signature="e#3506#3529#0" expanded="false" />
+            <element signature="e#3506#4275#0" expanded="false" />
+            <element signature="e#4276#4464#0" expanded="false" />
+            <element signature="e#4466#4492#0" expanded="false" />
+            <element signature="e#5414#5646#0" expanded="false" />
+            <element signature="e#5648#6776#0" expanded="false" />
+            <element signature="e#6778#7775#0" expanded="false" />
+            <element signature="e#7777#9859#0" expanded="false" />
+            <element signature="e#8299#8350#0" expanded="false" />
+            <element signature="e#8427#8503#0" expanded="false" />
+            <element signature="e#10325#10376#0" expanded="false" />
+            <element signature="e#10453#10529#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/input_64.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vector2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1098">
+          <caret line="61" column="29" lean-forward="false" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#289#357#0" expanded="false" />
+            <element signature="e#289#941#0" expanded="false" />
+            <element signature="e#943#973#0" expanded="false" />
+            <element signature="e#943#1759#0" expanded="false" />
+            <element signature="e#1760#1957#0" expanded="false" />
+            <element signature="e#1959#1982#0" expanded="false" />
+            <element signature="e#3307#3504#0" expanded="false" />
+            <element signature="e#3506#3529#0" expanded="false" />
+            <element signature="e#3506#4275#0" expanded="false" />
+            <element signature="e#4276#4464#0" expanded="false" />
+            <element signature="e#4466#4492#0" expanded="false" />
+            <element signature="e#5414#5646#0" expanded="false" />
+            <element signature="e#5648#6776#0" expanded="false" />
+            <element signature="e#6778#7775#0" expanded="false" />
+            <element signature="e#7777#9859#0" expanded="false" />
+            <element signature="e#8299#8350#0" expanded="false" />
+            <element signature="e#8427#8503#0" expanded="false" />
+            <element signature="e#10325#10376#0" expanded="false" />
+            <element signature="e#10453#10529#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vector2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="75" column="37" lean-forward="false" selection-start-line="75" selection-start-column="37" selection-end-line="75" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#289#357#0" expanded="false" />
+            <element signature="e#289#941#0" expanded="false" />
+            <element signature="e#943#973#0" expanded="false" />
+            <element signature="e#943#1759#0" expanded="false" />
+            <element signature="e#1760#1957#0" expanded="false" />
+            <element signature="e#1959#1982#0" expanded="false" />
+            <element signature="e#3307#3504#0" expanded="false" />
+            <element signature="e#3506#3529#0" expanded="false" />
+            <element signature="e#3506#4275#0" expanded="false" />
+            <element signature="e#4276#4464#0" expanded="false" />
+            <element signature="e#4466#4492#0" expanded="false" />
+            <element signature="e#5414#5646#0" expanded="false" />
+            <element signature="e#5648#6776#0" expanded="false" />
+            <element signature="e#6778#7775#0" expanded="false" />
+            <element signature="e#7777#9859#0" expanded="false" />
+            <element signature="e#8299#8350#0" expanded="false" />
+            <element signature="e#8427#8503#0" expanded="false" />
+            <element signature="e#10325#10376#0" expanded="false" />
+            <element signature="e#10453#10529#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vector2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="75" column="37" lean-forward="false" selection-start-line="75" selection-start-column="37" selection-end-line="75" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_64.txt" />
+    <entry file="file:///usr/include/c++/5/fstream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="510" column="6" lean-forward="false" selection-start-line="510" selection-start-column="6" selection-end-line="510" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/input_64.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/iostream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="62" column="35" lean-forward="true" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common.cpp" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vector2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="181" column="26" lean-forward="false" selection-start-line="181" selection-start-column="26" selection-end-line="181" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="357" column="40" lean-forward="false" selection-start-line="357" selection-start-column="40" selection-end-line="357" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#289#357#0" expanded="false" />
+            <element signature="e#289#941#0" expanded="false" />
+            <element signature="e#943#973#0" expanded="false" />
+            <element signature="e#943#1759#0" expanded="false" />
+            <element signature="e#1760#1957#0" expanded="false" />
+            <element signature="e#1959#1982#0" expanded="false" />
+            <element signature="e#3307#3504#0" expanded="false" />
+            <element signature="e#3506#3529#0" expanded="false" />
+            <element signature="e#3506#4275#0" expanded="false" />
+            <element signature="e#4276#4464#0" expanded="false" />
+            <element signature="e#4466#4492#0" expanded="false" />
+            <element signature="e#5414#5646#0" expanded="false" />
+            <element signature="e#5648#6776#0" expanded="false" />
+            <element signature="e#6778#7775#0" expanded="false" />
+            <element signature="e#7777#9859#0" expanded="false" />
+            <element signature="e#8299#8350#0" expanded="false" />
+            <element signature="e#8427#8503#0" expanded="false" />
+            <element signature="e#10325#10376#0" expanded="false" />
+            <element signature="e#10453#10529#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

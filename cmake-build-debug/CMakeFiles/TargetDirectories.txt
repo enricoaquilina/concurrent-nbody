@@ -1,0 +1,3 @@
+/home/enrico/Desktop/nbodyAss/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/enrico/Desktop/nbodyAss/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/enrico/Desktop/nbodyAss/cmake-build-debug/CMakeFiles/nbodyAss.dir

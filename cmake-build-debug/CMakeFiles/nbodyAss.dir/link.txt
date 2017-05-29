@@ -1,0 +1,1 @@
+mpicxx    -fopenmp -g   CMakeFiles/nbodyAss.dir/main.cpp.o  -o nbodyAss 
